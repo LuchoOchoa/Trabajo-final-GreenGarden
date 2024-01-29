@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-align: a;
+}
+
+.logoHeader{
+    width: 30px;
+    justify-content:left;
+}
+.barranavegacion{
+    justify-content:center;
+}
+.carousel{
+    width: 100%;
+    height: 100vh;
+    
+    padding: 0;
+    
+    object-position: center;
+    border: solid 5px black;
+    border-radius: 5px;
+}
+
+nav {
+    background: rgba(5,7,12,0.75);
+    
+
+    padding: 10px 0;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+
+footer {
+
+    background: rgba(5,7,12,0.75);
+    color: #ffffff;
+    padding: 30px ;
+    
+
+}
+
+
+
+.fondo-productos{
+    background-image: linear-gradient(rgba(5,7,12,0.25), rgba(5,7,12,0.25))
+    ,url("../archivos/fondoplantas.webp");
+    
+}
+
+
+.titulo{
+    background: rgba(3, 95, 41, 0.75);
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px 5px;
+}
+
+.formulary{
+    margin-top: 25px;
+    width: 800px;
+    text-align: center;
+    padding: 20px 20px 30px 20px;
+
+    background: rgba(5,7,12,0.75);
+    border: solid 5px rgba(5,7,12,0.75);
+    border-radius: 5px;
+}
+
+.formulary2{
+    
+    margin: auto;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 2px 2px 3px 2px;
+
+    background: rgba(5,7,12,0.75);
+    border: solid 5px rgba(5,7,12,0.75);
+    border-radius: 5px;
+}
+
+.form-label{
+    color: white;
+}
+h1{
+    color: #000;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.fondo-tabla{
+    display: flex;
+    justify-items: center;
+}
+
+.card-title{
+    color: white;
+}
+.card-text{
+    color: white;
+    
+}
+.card-image{
+    margin-top: 20px;
+    margin:auto;
+    width: 300px;
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+
+
+    background: rgba(5,7,12,0.75);
+    border: solid 5px rgba(5,7,12,0.75);
+    border-radius: 5px;
+}
+
+.card-group{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    
+}
+.img-inicio{
+    width: 290px;
+}

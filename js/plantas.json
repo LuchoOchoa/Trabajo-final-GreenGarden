@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Sansevieria",
+        "precio": "$ 3000",
+        "descripcion": "La planta de serpiente ?, más conocida como sansevieria, de hojas alargadas y carente de tronco es un auténtico todoterreno. Resiste de maravilla en zonas sombrías y a la falta de riego e incluso a temperaturas algo frías. Esta planta, además tiene propiedades purificadoras del aire, ¡toda una maravilla! De hecho, la planta sansevieria está recomendada por la NASA para eliminar los extractos tóxicos de aire, además de ser muy mona para decorar. Las precauciones que hay que tomar con la planta de serpiente van encaminadas ante todo a evitar que se pudran sus raíces por exceso de riego. Para ello, utiliza un buen drenaje y ante la duda mejor quédate un poco corto de agua.",
+        "imagen": "../archivos/json/sansevieria.jpg.webp"
+    },
+    {
+        "nombre": "Anturioa",
+        "precio": "$ 3600",
+        "descripcion": "La planta anturio o el Anthurium es una de las más resistentes. Se caracteriza por su flor ya que es una espiga rodeada de una hoja en forma de corazón y con un color muy intenso. El color más habitual es el rojo ?, pero también la podemos encontrar en púrpura, blanco, naranja e incluso negro ? Para cuidarla, necesita estar a una temperatura superior a 15 grados al ser una planta tropical. ¿Cómo conseguimos una temperatura adecuada? Pues debemos pulverizarla o colocarla en una bandeja con piedras y con agua. Con esta técnica conseguimos que sus raíces no estén en contacto con el agua.",
+        "imagen": "../archivos/json/anturio.jpg.webp"
+    },
+    {
+        "nombre": "Peperomia",
+        "precio": "$ 3150",
+        "descripcion": "La planta Peperomia polybotrya, o también llamada corazón de hombre, es una planta de color verde intenso originaria de América Central. Son un poco más exigentes que las plantas de interior convencionales pero aún así son muy resistentes y sencillas de cuidar. Son muy sensibles al frío ❄️ así que es importante mantener una temperatura constante y moderada en su ambiente. También tienes que tener en cuenta que requieren una humedad elevada aunque no conviene que pulverices sus hojas porque se pudren fácilmente.",
+        "imagen": "../archivos/json/peperomia.jpg.webp"
+    },
+    {
+        "nombre": "Espatifilo",
+        "precio": "$ 5000",
+        "descripcion": "De las plantas de interior fáciles de mantener, el espatifilo es una de las más atractivas, con unas flores blancas preciosas que aportarán mucho estilo donde la coloques. No debe darle el sol directo, pero necesita mucha luz. En invierno no la riegues demasiado y en verano intenta hacerlo con más frecuencia ?",
+        "imagen": "../archivos/json/espatifilo.jpg.webp"
+    },
+    {
+        "nombre": "Drácena",
+        "precio": "$ 4700",
+        "descripcion": "Esbelta y de hojas verdes con filos rojizos, es una prima hermana del drago milenario, una especie típica de las Islas Canarias. Las drácenas son plantas de crecimiento lento ?, por lo que hazte a la idea de que el tamaño con el que la compres será el que conserve durante una larga temporada. En cuanto cuidados, un poco lo mismo de siempre: temperaturas alrededor de 21ºC, iluminación sí pero no directa y, en cuanto al agua, con regarla una vez a la semana (incluso cada tres si es invierno) será suficiente.",
+        "imagen": "../archivos/json/Dracena_Marginata.jpg.webp"
+    },
+    {
+        "nombre": "Violeta Africana",
+        "precio": "$ 4900",
+        "descripcion": "La violeta africana es una planta de interior fácil de cuidar y muy resistente, que dará elegancia a tu hogar. Entre sus cuidados, se caracteriza por necesitar poca luz, pero con una buena luminosidad ofrecerá flores de diferentes colores durante todo el año. Entre dichos colores está el morado, azul, rosa, rojo o multicolor. Su temperatura perfecta es entre los 17 y 12º, y nunca situar a la violeta africana en un clima inferior a los 10º. Y recordad, se riega de manera moderada, evitando encharcamiento y humedad en sus raíces. Es una planta ¡irresistible!",
+        "imagen": "../archivos/json/violeta-africana.jpg.webp"
+    },
+    {
+        "nombre": "Helechos",
+        "precio": "$ 5800",
+        "descripcion": "Lo que necesitan estas plantas tan bonitas y versátiles es bien sencillo: humedad, riego frecuente y fertilizante cada cierto tiempo. Es una planta muy agradecida y fácil de contentar que quedará bien en cualquier espacio de casa",
+        "imagen": "../archivos/json/helechos-plantas-de-interior-768x768.jpg.webp"
+    },
+    {
+        "nombre": "Crasas",
+        "precio": "$ 6250",
+        "descripcion": "Al igual que los cactus, las crasas provienen de la familia de las suculentas. Sin embargo, esta planta acumula el agua en las hojas y no en el tronco, por ello no tienen espinas. Contra más agua reciban las crasas, más carnosas y bonitas se convierten sus hojas ¿Cómo saber si necesitan ser regadas? Lo más correcto es introducir un dedo y ver si el sustrato está seco o húmedo. Asimismo, en invierno siempre hay que disminuir los riegos. Son perfectas para decorar tu casa ya que tienen muy buena adaptación a los interiores",
+        "imagen": "../archivos/json/crasas.jpg.webp"
+    }
+]
